@@ -1,6 +1,6 @@
 # JavaScript template strings class work
-
-### Exercise 1:
+#### Great work! If you finish super early feel free to add to the assignemnt or look up what we will be covering tomorrow (you might already be doing this and if so great!)
+### Exercise 1: CORRECT
 Create a template string and assign it to the variable ```my_template_string```.
 
 The template string should contain the following data only:
@@ -23,7 +23,7 @@ My address is Memphis, TN.
 ```
 
 
-### Exercise 2:
+### Exercise 2: CORRECT
 
 Create a new template string 
 
@@ -37,7 +37,7 @@ and use the provided variables to print
 Congratulations 1_M_l337! !!, your score is 9001.
 ```
 
-### Exercise 3:
+### Exercise 3: CORRECT
 
 Combine multiple development concepts to create a basketball scoring program that meets the following requirements:
 - Prompts the user for the name of their Home team
